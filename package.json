@@ -1,0 +1,11 @@
+{
+  "name": "abdelhamed-nada",
+  "version": "1.0.0",
+  "description": "Personal website for Abdelhamed Nada",
+  "scripts": {
+    "start": "npx serve -s . -p ${PORT:-3000} --no-clipboard"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
